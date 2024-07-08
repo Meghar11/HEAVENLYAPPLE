@@ -22,7 +22,7 @@ To view and edit the Heavenlyapple landing page locally, follow these steps:
 
 1. **Clone the repository:**
     bash
-    git clone [https://github.com/yourusername/heavenlyapple.git](https://github.com/Meghar11/HEAVENLYAPPLE)
+    git clone(https://github.com/Meghar11/HEAVENLYAPPLE)
     
 
 2. **Navigate to the project directory:**
